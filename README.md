@@ -1485,7 +1485,7 @@ find_cluster3d(hyades,dat,eps=.003)
 
 
 
-    <IPython.core.display.Javascript object>
+![png](README_files/README_34_2.png)
 
 
 
@@ -1523,7 +1523,7 @@ find_cluster3d(pleiades,dat,eps=.0035)
 
 
 
-    <IPython.core.display.Javascript object>
+![png](README_files/README_38_2.png)
 
 
 
