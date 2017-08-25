@@ -1663,7 +1663,7 @@ find_cluster3d(hyades,dat,eps=.003)
     Using Euclidean 3D distance
 
 
-![png](StarClusters_files/StarClusters_42_1.png)
+![png](StarClusters_files/StarClusters_42_2.png)
 
 
 Next we'll do the Pleiades,
